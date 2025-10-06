@@ -1,0 +1,13 @@
+{
+  "name": "perlin-animated",
+  "version": "1.0.0",
+  "description": "Perlin noise generator with smooth animation support",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["perlin", "noise", "animation", "procedural", "generator"],
+  "author": "Hugh Taylor",
+  "license": "MIT"
+}
